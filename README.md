@@ -1,14 +1,18 @@
 # Crear entorno virtual python
+```bash
 python -m venv new-env 
 new-env\Scripts\activate
+```
 
 # Instalar dependencias
+```bash
 pip install numpy
 pip install scikit-image
 pip install tensorflow
 pip install tqdm
 pip install vizdoom
 pip install torch
+```
 
 # Cacodemon
 
