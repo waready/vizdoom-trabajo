@@ -24,3 +24,7 @@ Verificación: Observa el comportamiento del agente mientras aprende a disparar 
 El objetivo de este escenario es enseñar al agente a sobrevivir sin saber qué le hace sobrevivir. El agente solo sabe que la vida es preciosa y que la muerte es mala, por lo que debe aprender qué prolonga su existencia y que su salud está relacionada con ello.
  El mapa es un rectángulo que contiene paredes y un suelo verde y ácido que daña al jugador periódicamente. Al principio hay algunos botiquines distribuidos uniformemente por el mapa. De vez en cuando cae un nuevo botiquín del cielo. Los botiquines curan parte de la salud del jugador; para sobrevivir, el agente debe recogerlos. El episodio termina después de la muerte del jugador o tras un tiempo de espera.
 
+# Integrantes
+1. ANTONY JAPURA PAREDES
+2. ARTURO CUBA TORRES
+3. ZARA GABRIELA CARRASCO MARON
